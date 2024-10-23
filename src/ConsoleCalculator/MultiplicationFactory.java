@@ -6,3 +6,4 @@ public class MultiplicationFactory implements OperationFactory {
         return new Multiplication();
     }
 }
+/sl
